@@ -65,7 +65,7 @@ function Router() {
   }
   return (
       <Layout>
-          <Content style={{ background: 'rgb(240,255,255)', textAlign: 'center', padding: '30px',paddingTop:'0px' }}>
+          <Content style={{ background: 'rgb(240,255,255)', textAlign: 'center', padding: '30px',paddingTop:'0px'}}>
               <div>{content}</div>
           </Content>
       </Layout>
